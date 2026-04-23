@@ -2,7 +2,7 @@
 
 # Welcome to my profile!
 
-I am a 4th year CS student at OSU-Cascades, graduating in Spring 2023. This account contains most of my school projects and assignments, including my current project, the [Smart Recyling Bin Capstone Project](https://github.com/jakeengstrom3/SmartRecyclingBin_Capstone). 
+I am a recent OSU-Cascades Computer Science graduate always striving to learn new things
 
 ### Here's a nice waterfall (Bridge Creek Falls)
 
